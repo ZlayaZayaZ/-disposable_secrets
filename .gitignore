@@ -1,6 +1,7 @@
 setloc.py
 
 venv/ 
+env_name/
 
 __pycache__/
 
